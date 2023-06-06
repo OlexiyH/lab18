@@ -1,0 +1,9 @@
+C:\Users\mrden\source\repos\LB18\bin\x64\Debug\LB18.exe.config
+C:\Users\mrden\source\repos\LB18\bin\x64\Debug\LB18.exe
+C:\Users\mrden\source\repos\LB18\bin\x64\Debug\LB18.pdb
+C:\Users\mrden\source\repos\LB18\obj\x64\Debug\LB18.Form1.resources
+C:\Users\mrden\source\repos\LB18\obj\x64\Debug\LB18.Properties.Resources.resources
+C:\Users\mrden\source\repos\LB18\obj\x64\Debug\LB18.csproj.GenerateResource.cache
+C:\Users\mrden\source\repos\LB18\obj\x64\Debug\LB18.csproj.CoreCompileInputs.cache
+C:\Users\mrden\source\repos\LB18\obj\x64\Debug\LB18.exe
+C:\Users\mrden\source\repos\LB18\obj\x64\Debug\LB18.pdb

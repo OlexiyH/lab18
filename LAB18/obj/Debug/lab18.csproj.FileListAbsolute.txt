@@ -1,0 +1,10 @@
+D:\politech 2.0\c#\LB18\bin\Debug\LB18.exe.config
+D:\politech 2.0\c#\LB18\bin\Debug\LB18.exe
+D:\politech 2.0\c#\LB18\bin\Debug\LB18.pdb
+D:\politech 2.0\c#\LB18\obj\Debug\lab18.csproj.AssemblyReference.cache
+D:\politech 2.0\c#\LB18\obj\Debug\LB18.Form1.resources
+D:\politech 2.0\c#\LB18\obj\Debug\LB18.Properties.Resources.resources
+D:\politech 2.0\c#\LB18\obj\Debug\lab18.csproj.GenerateResource.cache
+D:\politech 2.0\c#\LB18\obj\Debug\lab18.csproj.CoreCompileInputs.cache
+D:\politech 2.0\c#\LB18\obj\Debug\LB18.exe
+D:\politech 2.0\c#\LB18\obj\Debug\LB18.pdb
